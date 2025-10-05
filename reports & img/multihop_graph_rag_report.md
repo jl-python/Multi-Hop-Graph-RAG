@@ -1,6 +1,6 @@
 
 
-# Connecting Week 6 Hands-On Results to My Project
+# Week 6 Hands-On Report
 
 ## Introduction
 In this week’s hands-on assignment, I explored advanced retrieval-augmented generation techniques, focusing on Graph-RAG and Multi-Hop QA. These extend the work from Week 4 (baseline dense retrieval) and Week 5 (advanced RAG with rerankers and improved chunking). The goal was to evaluate whether graph-based retrieval and multi-hop reasoning provide measurable improvements for answering complex queries over a domain-specific corpus.  
