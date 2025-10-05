@@ -1,0 +1,12 @@
+{
+  "embedding_model": "intfloat/e5-large",
+  "reranker": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "generator_model": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+  "hop_limit": 3,
+  "retriever_top_k": 5,
+  "multi_hop_enabled": true,
+  "graph_settings": {
+    "edge_weighting": "entity co-occurrence",
+    "layout": "spring"
+  }
+}
