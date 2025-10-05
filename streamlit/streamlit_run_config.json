@@ -1,0 +1,8 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "graph_library": "networkx",
+  "hop_limit": 2,
+  "retriever_top_k": 5,
+  "use_graph_rag": true,
+  "notes": "Dependencies pinned to packages used in week_6a_testing.py. SpaCy model en_core_web_sm must be downloaded separately."
+}

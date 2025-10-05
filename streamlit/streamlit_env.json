@@ -1,0 +1,26 @@
+{
+  "name": "week6a_graph_rag_env",
+  "channels": [
+    "defaults",
+    "conda-forge"
+  ],
+  "dependencies": [
+    "python=3.10",
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "networkx",
+    "streamlit",
+    "spacy",
+    "chromadb",
+    "rank-bm25",
+    "pypdf",
+    "accelerate",
+    "sentence-transformers",
+    "transformers",
+    "langchain",
+    "langchain-community",
+    "langchain-huggingface"
+  ],
+  "spacy_model": "en_core_web_sm"
+}
